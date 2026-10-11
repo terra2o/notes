@@ -1,0 +1,20 @@
+#+TITLE: Bilisim Teknolojileri
+
+Hoca PDF'in ne oldugunu haftaya sorucak
+
+* Microprocessors
+** RISC
+- Daha az guc harcadigi icin mobil cihazlarda tercih edilir
+** CISC
+- Bir komutla daha cok sey yapabildigi icin masaustunde kullanilir
+
+
+* Alan Turing
+Bilgisayarlarin mantiksal islerimlerle her turlu problemi cozebilcegini gosterdi
+** Turing Testi
+Bir bilgisayarin "zeki" sayilmasi icin insanla konustunda ayirt edilmemesi gerektigin soyledi.
+***** Karar verici insan -> Insan ve Makine
+Gelen cevaba bakarak neyin ne olduguna karar verip verememek
+
+* Cin odasi testi
+Inputtaki seyi, kural kitabina bakarak karsiligina bakip, output olarak koymak.

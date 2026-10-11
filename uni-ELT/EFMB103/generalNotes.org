@@ -1,0 +1,34 @@
+#+TITLE: Egitim Sosyolojisi
+
+* Egitim sosyolojisi
+** Iyi yasamak icin toplum
+- Insan icin sadece yasamak degil, iyi yasamak esastir.
+** Sosyolojinin ortaya cikisi
+*** Sanayi devrimi oncesi
+- Kirsal yasim
+- Tarim ve hayvancilik ekonomisi
+- Dinin merkezi rolu
+- Az sayida seckin yoneticiler
+- Basit toplum yapisi
+*** Sanayi devrimi sonrasi
+- ...
+** Sosyolojinin ortaya cikma sebebi
+- ...
+** Her kurumun kendine ozgu sosyolojisi
+- Egitim sosyolojisi
+- Saglik sosyolojisi
+- Hukuk sosyolojisi
+- Spor sosyolojisi
+- Ozelarastirma yontemleri
+- Ozel kavramsal dunya
+** Toplumsal degisim ve donusum
+*** Degisim
+- Bazi temel yapilarin ayni kalarak farklilasmasi
+- Sabit olan seyler vardir.
+*** Donusum
+- ...
+** Modern toplumlarda sinif
+- Gelir ve egitim duzeyine dayali
+- Ust, orta, alt sinif
+- Siniflar arasi hareketlilik mumkun
+- Statu degistirme icin egitim onemli

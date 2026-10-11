@@ -1,0 +1,83 @@
+#+TITLE: Yabanci Dil
+
+* Alphabet
+- C tislamak gibi
+- J = 'yot'
+- R = gargara yapar gibi
+- V = 'fau'
+- w = v
+- y = ipselon
+- z = s
+
+- ei = ay
+- ie = ii
+- eu = oy
+
+* Common questions in German
+- Woher kommst du? = Nereden geliyorsun/Nerelisin?
+  - Ich komme aus Malatya = I come from Malatya
+  - Ich komme auch aus Malatya = I come from Malatya too
+
+- Wo Wohnst du? = Where do you live?
+  - Ich wohne in Gaziantep = I live in gaziantep
+    *note*: in = de/da in Turkish
+
+- Welche Sprachen sprichst du?
+  Welche Sprachen sprechen Sie?
+  - Ich spreche Türkisch, Deutsch und *etwas* Englisch.
+    *note*: etwas = "az bir sey" in Turkish
+
+* Common words
+|             | kommen | wohnen | heissen | sein | sprechen |
+|-------------+--------+--------+---------+------+----------|
+| ich         | komme  | wohne  | heisse  | bin  | spreche  |
+| du          | kommst | wohnst | heisst  | bist | sprichst |
+| er, sie, es | kommt  | wohnt  | heisst  | ist  | spricht  |
+|-------------+--------+--------+---------+------+----------|
+| wir         | kommen | wohnen | heissen | sind |          |
+| ihr         | kommt  | wohnt  | heisst  | seid |          |
+| sie, Sie    | kommen | wohnen | heissen | sind |          |
+
+| die Lönder (das Land) | die Sprachen (die Sprache) |
+|-----------------------+----------------------------|
+| die Türkei            | Türkisch                   |
+| Deutschland           | Deutsch                    |
+| England               | Englisch                   |
+| Österreich            | Deutsch                    |
+| Frankreich            | Französisch                |
+| die Schweiz           | Deutsch                    |
+| der Iran              | Persisch                   |
+
+* Jobs
+| der            | die                            | Turkcesi  |
+|----------------+--------------------------------+-----------|
+| Schüler        | Schülerin                      | Ogrenci   |
+| Arzt           | Arztin (A has two dots on top) | Doktor    |
+| Krankenpfleger | Krankenschwester               | Hemsire   |
+| Rentner        | Rentnerin                      | Emekli    |
+| Hausmann       | Hausfrau                       | Ev hanimi |
+
+** "Arbeite"
+- Ich arbeite _als_ Informatika
+- Ich arbeite _bei_ GAUN
+** Machen
+Ich mache ...
+
+* Familienstand
+| Verheiratet    | Evli             |
+| Verlobt        | Nisanli          |
+| Iedig/Singel   | Single           |
+| gesechieden    | Bosanmis         |
+| Zusammen leben | Birlikte yasamak |
+| getrennt leben | Ayri yasamak     |
+| allein leben   | Yalniz yasamak   |
+
+- Bist du verheiratet? (Evli misin)?
+  - Ja, ich bin verheiratet.
+  - Nein, ich bin nicht verheiratet.
+
+* Rules
+- All questions start with 'w'
+
+* Books to get
+- [X] Menschen (Biri calisma, biri ders kitabi)

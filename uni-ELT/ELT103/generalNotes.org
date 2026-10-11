@@ -1,0 +1,25 @@
+#+TITLE: Yazma Becerileri
+
+We'll get a portfolio at the end
+First draft, second draft
+
+You can write the essays on notebooks. It must be rip-able
+
+We will write 5 paragraph essays.
+
+The first sentence of a paragraph, which introduce the topic, is topic sentence.
+
+* Essays
+- Last sentence of the introduction is a thesis statement.
+
+* Books to get
+- [X] The Writing Journey 2 (University photocopy center) (must be empty)
+
+* Rules
+- You must write by hand
+
+* Homework
+- [ ] Page #11
+- [ ] Page #14 ex. 4
+- [ ] Page #15
+- [ ] Page #16 ex. 5

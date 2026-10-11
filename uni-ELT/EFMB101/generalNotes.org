@@ -1,0 +1,156 @@
+#+TITLE: Introduction to Education (Egitime Giris)
+
+* Introduction to Education
+Anayasa'nın 42. maddesi: Öğrenme hakkı.
+
+Eğitim, insanlığın başından beri var.
+
+Dansik limanindan geliyorsa urun kalitelidir, "daniskasi" lafi burdan gelir.
+
+** Ortacag'da egitim
+*** Ortak Ozellikleri
+- Dunyasal hedefler yoktur
+- Olum sonrasina hazirlama var
+- Yaygin degildir
+- Uygulayici din kurumlaridir
+- Kiliselerin dar cercevesine sikismisdir
+- Saray duvarlarini asamamis
+- Soylularin egitimine onem verilmistir
+- Ogretmenlik, meslek olarak kabul gormemis
+- Egitim psikolojik temelden yoksun
+- Bire bir egitim uygulanmakta
+
+** Ronesaans doneminde egitim
+- Cagdas anlamda ilk egitim calismalari baslamistir
+- Egitim icin bazi hedefler saptanmistir
+- Toplu egitim uygulanmasina gecilmis
+- Yeni devletler ortaya cikmis
+- Bu devletlerde yetismis insangucune ihtiyac duyulmus
+- Ortacag okul sistemi temelden sarsilmis
+- Memur ve subaylar okullarda yetistirilmeye baslanmis
+  
+** Fransiz ithilali - 20. yuzyil
+- 1770 Almanya'da ilk pedegoji enstitusu kuruldu
+- Yatili okullar acilmaya basladi
+- 1800lerde psikoloji egitimi etkiledi
+- 19. yuzyil baslarinda ogretmenlik meslegi onem kazandi
+- Ogretmen yetistirmek icin yuksekokullar acildi
+- Ilkogretimde gelismeler yasandi
+- Ogretim yontemleri gelisti
+- Cesitli tartismalar yasandi
+  - Konular
+  - Birey mi toplum mu?
+
+** Bilim oncesi egitim
+Ilk cagin egitim dusunceleri ve onerileridir
+
+*** Bilimsel egitim
+Arastirmalar sonucu dogru ve gecerli egitim ve ogretim ilkelerinin uygulanmasi
+
+*** Bilimsel egitimde
+- Cocuklarin koksuz birikimlere ve kisisel kaprislere gore yetistirilmesi
+- Ogretmenlerin, cocugun aile ve sokakta olumsuz etkilere karsi karsiya kaldirlarini bilmeleri gerekir.
+
+** Comenius 1592 - 1670 - Didaktika magna adli eseri yazmis - Klasik egitim tarihinin ilk eseridir
+- Bu eserinde Cek egitim bilimci Amos Comenius su gorusu ileri surer (MEB, 2007b, s. 5): Ogretmenlerin mumkun olabildigince az ogretmeleri, ogrencilerin ise daha cok (kendi kendilerine) ogrenmelerini saglayacak ogretme yontemlerini arastirmalari ve kesfetmeleri gerekir.
+
+** Ogretime ilskin gorusler
+- Insanlar icin egitim sarttir
+- Egitim ilk yaslarda verilmelidir
+- Kiz erkek ayrimi yapilmamali
+- Egitim okullarda verilmeli
+- Egitim kapsamli olmali
+- Egitimde disiplin temel olmali
+- Okullar gelistirilmeli
+- Yeni ilkeler belirlenmeli
+- Bu ilkeler dogadan alinmalidir
+
+** Basarinin yollari
+- Her sey zamaninda yapilmali
+- Sekilden once malzeme gelir.
+- Malzeme, sekli anlamaya yardimci olur
+- Her sey ayri ayri yapilir
+- Once icten baslanmali
+- Once genelden baslanmali
+- Asamali olarak yapilmali
+- Is bitene kadar devam edilmeli
+- Temel kurallara zit olan seylerden kacinilmali
+
+** Ogrenme ve ogretimin temel kurallari
+- Gereksiz seyler uzerinde durulmamali
+- Amaca uygun davranmali
+- Temel saglam ve derin olmali
+- Aslina uygun orneklendirilmeli
+- Parcalara bolerek ogretilmeli
+- Ileriye donuk olmali
+- Ogretilenler birbiriyle baglantilandirilmali
+- Ic ile dis arasinda oran saglanmali
+- Alistirmalarla ogretilmeli
+  + Commennius'un cagdas egitime katkilari
+    + Proje calismalarinin temelini olusturmustur.
+    + Yaparak ve yasayarak ogrenmenin onemi uzerinde durmustur
+    + Ilk resimli cocuk kitabini (Orbis Pictus) yazmistir
+    + Sinif sistemini ve yas gruplarina gore kademelendirmeyi getirmistir
+    + Tum insanlara egitim verilmesi gerektigini (Pansofizm) savunmustur
+    + Anadilde egitimi savunmustur
+    + Somuttan soyuta, kolaydan zora ogretim ilkelerini getirmistir
+
+
+** Gazali
+Nisabur ve Bagdat nizamiye medreselerinde egitim vermis Ihyaliulum ve Eyyuhelvelet isimli egitim agirlikli eserleri vardir
+- Ogretmenin degeri uzerinde durmustur
+- Cocuga sevgi verilmesi
+- Kotu arkadaslardan uzak tutulmasi
+- Cocugun rahat ve bolluktan uzaklastirilmasi
+- Kucuk yasta egitim
+- Yetersiz kisilere egitim verdirilmemesi
+
+** Islamiyet oncesi turklerin egitim ozellikleri
+- Egitim anlayis ve uygulamalari yasam bicimleri ile sekillenmistir
+- Tore bireylerin toplumlasmalarinda onemli rol oynamistir
+- Ulastiklari uygarlik duzeyi orgut egitim kurumlarinin varligina isaret etmektedir
+- Edebi eserler, ogretici ozellik tasiyor
+- Alp insan tipi yetistirilmeli
+- Bilim sevgisi kokluymus
+- Mesleki egitime onem veriliyor
+- Cinsiyet ayrimi yapilmiyor
+
+** Hunlarda egitim
+- Mesleki egitime onem vermisler
+- El sanatinda ilerlemisler
+- Egitimin temelini savasa hazirlik gormulser
+- Atlarin egitimine onem vermisler
+
+** Gokturklerde egitim
+- Hunlarin egitimine benzemekteidr
+- Milli dili ve yazisi bulunan tek ulke
+- Egitim tore icinde tore katilimiyla gerceklesiyor
+
+** Uygurlarda
+- Yerlesik hayat var
+- Ozgun egitim gelismis
+- Yasam seviyesi yuksek
+- Yabanci devletlere insan yetistirmisler
+- Katip, burokrat, danisman, tercuman, ogretmen ihrac etmisler
+
+** Musluman turklerin egitim ozellikleri
+- Egitim kurumu olarak medreseler ortaya cikiyor
+- Toplumun deger verdigi insan tipi degismis
+- Alperen tipi insan yetistirilmesine onem verilmis
+- Islamiyetin bilimi yuce tutma kulturu Turk'lerin bilim sevgisi ile birlesmis
+- Arap ve Fars dillerinin etkisi artmis
+- Bilim dili Arapca olmustur
+
+** Selcuklularda egitim
+- Egitim-ogretim ve bilimin gelismesine onem verilmis
+- Medreseler yayginlasmis
+- Nizamiye Medreseleri kurularak yuksekogretim kurumsallasmistir
+- Ogrencilere burs, yatacak yer ve yemek saglanmistir
+- Vakiflar yoluyla egitim finanse edilmistir
+- Ahilik teskilati ile orgun disi mesleki ve ahlaki egitim verilmistir
+- Medreselerde dini ilimlerin yaninda akli ilimler de okutulmustur
+- Yetiskin egitimi cami ve mescitlerde surdurulmustur
+- Bilim adamlari ve mutasavviflar devlet tarafindan desteklenmistir
+
+* Recommended Reading
+"Eğitim bilimine giriş" adında bir kitap alman lazım. Yazarı Zeki Kaya [[https://www.nadirkitap.com/egitim-bilimine-giris-editorler-ozcan-demirel-zeki-kaya-ozcan-demirel-zeki-kaya-kitap46416048.html][link]]
