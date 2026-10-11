@@ -5,3 +5,5 @@ These are my notes. Most of them are for my ELT (English language teaching) clas
 Most of them are Turkish, but there are some English stuff.
 
 It doesn't contain anything that's copyrighted by my professors. It's all my thoughts during class. Files such as .pdf are gitignored anyways.
+
+It is licensed under [[./LICENSE][Creative Commons Attribution-NonCommercial 4.0 International License.]]
