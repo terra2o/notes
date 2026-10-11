@@ -3,3 +3,5 @@
 These are my notes. Most of them are for my ELT (English language teaching) class. This repo is for back-up purposes, and it's public because I don't mind if people read them.
 
 Most of them are Turkish, but there are some English stuff.
+
+It doesn't contain anything that's copyrighted by my professors. It's all my thoughts during class. Files such as .pdf are gitignored anyways.
