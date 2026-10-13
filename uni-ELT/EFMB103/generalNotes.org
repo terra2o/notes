@@ -3,6 +3,7 @@
 * Egitim sosyolojisi
 ** Iyi yasamak icin toplum
 - Insan icin sadece yasamak degil, iyi yasamak esastir.
+
 ** Sosyolojinin ortaya cikisi
 *** Sanayi devrimi oncesi
 - Kirsal yasim
@@ -10,10 +11,19 @@
 - Dinin merkezi rolu
 - Az sayida seckin yoneticiler
 - Basit toplum yapisi
+
 *** Sanayi devrimi sonrasi
-- ...
+- Kentlesme ve hizli nufus artisi
+- Fabrika uretimi ve kapitalist ekonomi
+- Laiklesme ve rasyonellesme
+- Karmasik is bolumu ve uzmanlasma
+- Bireyci ve karmasik toplum yapisi
+
 ** Sosyolojinin ortaya cikma sebebi
-- ...
+- Sanayi Devrimi ve Fransiz Ihtilali sonrasi yasanan krizler
+- Toplumsal duzenin bozulmasi ve yeni bir duzen arayisi
+- Hizli degisimi bilimsel ve rasyonel yontemlerle anlama ihtiyaci
+
 ** Her kurumun kendine ozgu sosyolojisi
 - Egitim sosyolojisi
 - Saglik sosyolojisi
@@ -21,12 +31,17 @@
 - Spor sosyolojisi
 - Ozelarastirma yontemleri
 - Ozel kavramsal dunya
+
 ** Toplumsal degisim ve donusum
 *** Degisim
 - Bazi temel yapilarin ayni kalarak farklilasmasi
 - Sabit olan seyler vardir.
+
 *** Donusum
-- ...
+- Temel yapilarin kokten ve niteliksel olarak farklilasmasi
+- Geri donusu olmayan yapisal kirilmalar
+- Toplumun paradigmalarinin butunuyle yenilenmesi
+
 ** Modern toplumlarda sinif
 - Gelir ve egitim duzeyine dayali
 - Ust, orta, alt sinif
