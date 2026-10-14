@@ -7,6 +7,9 @@ Eğitim, insanlığın başından beri var.
 
 Dansik limanindan geliyorsa urun kalitelidir, "daniskasi" lafi burdan gelir.
 
+** Premeck etkisi
+Bireyin yapma olasılığı yüksek olan (tercih ettiği/keyif aldığı) bir davranış, yapma olasılığı düşük olan (tercih etmediği/zorunlu) bir davranışı pekiştirmek için ödül olarak kullanılır.
+
 ** Ortacag'da egitim
 *** Ortak Ozellikleri
 - Dunyasal hedefler yoktur
@@ -151,6 +154,62 @@ Nisabur ve Bagdat nizamiye medreselerinde egitim vermis Ihyaliulum ve Eyyuhelvel
 - Medreselerde dini ilimlerin yaninda akli ilimler de okutulmustur
 - Yetiskin egitimi cami ve mescitlerde surdurulmustur
 - Bilim adamlari ve mutasavviflar devlet tarafindan desteklenmistir
+
+** Osmanli egitiminin temel ozellikleri
+- Medreseler guclenmis, ancak kndilerini yenilememislerdir
+- Enderun (azinliklarin ust duzey yetistirildigi okul) denen orgun egitim kurumlari olusmus
+- Ilkogretim cok basit duzeyde
+- Ilkokuldan sonra yalnizca erkekler okula gidebiliyor
+- Egitim-ogretimin temel amaci dindir
+- Aktarmaci ve ezberci bir egitim
+- Tanzimata kadar her duzeydeki egitim ucretsiz
+- Azinlik okullari denetim disi
+- Yaygin egitim din adamlarinca veriliyor
+- Yenilesme 1773'te askeri okullarda basladi
+
+** Ziya Gokalp 1876-1924
+- Sosyoloji dersini ilk kez programa koydurmustur
+- Felsefe dersinkn programa girmesinde etkili olmustur
+- Egitim, kultur ve politika konularinda onemli eserler vermistir
+- Egitimde millilik kavramini ortaya atmistir
+- Ogretmenlerin sorunlari uzerine egilmistir
+- Ataturk'u etkileyen ender dusunurlerdendir
+- Cocuklarin milli duygularla yetismesi gerektigini savunmustur
+- Yenilesmeye universiteden baslanmasi gerektigini savunmustur
+
+** Cumhuriyet doneminde egitim
+- Egitim laiklesmis, demokratiklesmis
+- 3 Mart 1924'te Tevhidi Tedrisat Kanunu cikarilmis
+- Sayisal gelismeler artmis
+- Tarih ve dil konularinda milli amaca yonelinmis
+- Latin alfabesi kabul edilmis
+- Laik ve Atturk ilkelerine bagli yeni insan tipi yetistirilmeye baslanmis.
+- 1945lerden sonra ABD'nin egitim uygulamalarindan etkilenmis
+- Istikrarli bir egitim politikasi olusturulamamis
+- Cok partili doneme gectikten sonra okul sayisi artmis
+- Ogretmen yetistirmede yeterisz kalinmis
+- Iletisim araclarindan yeterince faydalanilamamis
+- Ogretim yontemlerinde gecmisten etkilenilmis
+- Egitimde nitelik gelistirilememis
+  - Kaynak yeterisizligi
+  - Bozuk kentlesme
+  - Siyasal
+  - Umursamazlik
+  - Plansizlik
+
+** Ataturk'un egitim gorusleri
+- Zafer egitim ile desteklenmelidir
+- Milli egitimin ilk hedefi vatanini, milletini, dinini, tarihini bilen insanlar yetistirmektir
+- Egitim kesinlikle milli olmalidir
+- Ogretmenler guvenilir olmalidir
+- Ogretmenler en ozverili ve en saygin insanlardir
+- Guzel sanatlar ve beden egitimine ayri bir onem verilmelidir
+- Milli ahlak uygar ilkelerle ve ozgur dusuncelerle beslenmelidir
+- Cumhuriyetin korunmasi icin ahlakli insanlara ihtiyac vardir
+- Ogrencilere, ulkenin gelecegine, kendi benligine milli cikarlara dusman olan butun ogelerle mucadele etmeleri gerektigi ogretilmelidir.
+
+** Carrol'un okulda ogrenme modeli
+Ogrenme derecesi = ogrenme icin harcanan sure / ogrenme icin gerekli sure
 
 * Recommended Reading
 "Eğitim bilimine giriş" adında bir kitap alman lazım. Yazarı Zeki Kaya [[https://www.nadirkitap.com/egitim-bilimine-giris-editorler-ozcan-demirel-zeki-kaya-ozcan-demirel-zeki-kaya-kitap46416048.html][link]]

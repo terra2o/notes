@@ -19,7 +19,7 @@ The first sentence of a paragraph, which introduce the topic, is topic sentence.
 - You must write by hand
 
 * Homework
-- [ ] Page #11
-- [ ] Page #14 ex. 4
-- [ ] Page #15
-- [ ] Page #16 ex. 5
+- [X] Page #11
+- [X] Page #14 ex. 4
+- [X] Page #15
+- [X] Page #16 ex. 5
