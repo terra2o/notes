@@ -1,0 +1,5 @@
+#+TITLE: Temel spor yaklasimlari
+
+* Homework
+- [ ] Sporun faydalari nelerdir (2-3 sayfa)
+- [ ] Egzersiz oncesi ve sonrasi yapilan hareketlerin faydalari nelerdir (2-3 sayfa)

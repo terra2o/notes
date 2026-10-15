@@ -1,5 +1,11 @@
 #+TITLE: Yabanci Dil
 
+* Introducing self
+Ich heisse Taha. Ich wohne in der Türkei. Ich komme aus Malatya. Mein Beruf ist Programmierer und Student. Ich bin neunzehn Jahre alt. Ich habe keine Kinder. Ich bin Single
+
+* Not categorized
+nicht/kein = negatives in german
+
 * Alphabet
 - C tislamak gibi
 - J = 'yot'
@@ -76,8 +82,42 @@ Ich mache ...
   - Ja, ich bin verheiratet.
   - Nein, ich bin nicht verheiratet.
 
+* Numbers (Die Zahlen)
+| Number | German   | Number | German         |
+|--------+----------+--------+----------------|
+|      0 | null     |     18 | achtzehn       |
+|      1 | eins     |     19 | neunzehn       |
+|      2 | zwei     |     20 | zwanzig        |
+|      3 | drei     |     21 | einundzwanzig  |
+|      4 | vier     |     22 | zweiundzwanzig |
+|      5 | fünf     |     23 | dreiundzwanzig |
+|      6 | sechs    |     24 | vierundzwanzig |
+|      7 | sieben   |    ... | ...            |
+|      8 | acht     |     30 | dreißig        |
+|      9 | neun     |     40 | vierzig        |
+|     10 | zehn     |     50 | fünfzig        |
+|     11 | elf      |     60 | sechzig        |
+|     12 | zwölf    |     70 | siebzig        |
+|     13 | dreizehn |     80 | achtzig        |
+|     14 | vierzehn |     90 | neunzig        |
+|     15 | fünfzehn |    100 | (ein)hundert   |
+|     16 | sechzehn |        |                |
+|     17 | siebzehn |        |                |
+
+** Asking ages
+- Wie alt bist du?
+- Wie alt sind Sie?
+  + Ich bin 20 Jahre alt
+
+- Wie ist deine Telefonnummer?
+- Wie ist Ihre Telefonnummer?
+  + Meine Telefonnummer ist 053288
+
 * Rules
 - All questions start with 'w'
 
 * Books to get
 - [X] Menschen (Biri calisma, biri ders kitabi)
+
+* Homework
+- [ ] Pages #16-17 in Arbeitsbuch
