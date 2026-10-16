@@ -1,92 +1,128 @@
 #+TITLE: Atatürk ve İnkılap Tarihi
 
 * Ders Bilgileri ve Genel Notlar
-- Ders Notları
+- Yakın çağ tarihi Fransız İhtilali ile başlıyor. Sınavlar çoktan seçmeli olacak.
+- Atatürk'ün ilke ve inkılaplarını iyi anlayabilmemiz için 19. yüzyılın padişahlarını çok iyi anlamamız lazım. Böylece milletimizin yeniden devlet kurma mücadelesini verme evresini (yani milli mücadele dönemini) daha iyi anlarız.
+- Yapilan hatalarin ve ihmalkarliklarin imparatorlugun cokusunde en onemli faktordur.
+- Tarih devlet mezaridir. Cokuslerin nedeni nerdeyse hep aynidir.
+- Devleti yonetiyorsaniz hata yapmicaksiniz.
+- Rövanşist duygu --> Intikam duygusu. Tarihi kin
+- Hayatimiz boyunca Osmanli'yi silme projesini unutmicaz, unutturmamiz gerekiyor. Unutursak tekrar yasariz. Unutan toplumlar yok edilir. Onun benzerini yasamaya mahkumdur.
+- Ilk inkilaplar, yenilesme hareketleri orduda yapilmistir Osmanli devletinde.
+- Denge politikasi: Taraflarin milli menfaatleri/cikarlari devlet icin esastir. Kalici dostluklara, kalici dusmanliklara yer olmaz. Diplomasin altin kuralidir bu.
+- Milleti millet yapan:
+  - Din
+  - Degerlerinden taviz veren devletler baska devletlerin avi olmustur, somurgesi haline gelmistir, asimile olmustur.
+- 19. Yüzyıl Padişahları, Reformistler:
+  - III. Selim
+  - II. Mahmud
+  - Abdulmecid
+  - Abdulaziz (asil problem cehalet diyor)
+  - II. Abdulhamid
 
-Yakın çağ tarihi Fransız İhtilali ile başlıyor. Sınavlar çoktan seçmeli olacak.
+** Makyavelist Dusunce
+- Kurucu: Niccolo Machiavelli (Il Principe / Hukumdar kitabi).
+- Temel Ilke: Amaca ulasan her yol mubahtir. Oncelik devletin bekasi ve duzenidir.
+- Ahlak ve Siyaset: Siyaset bireysel ahlaktan bagimsizdir; olcut yalnizca basari ve guctur.
+- Guvenlik: Sevilmektense korkulmak daha guvenlidir, ancak nefret uyandirilmamalidir.
+- Liderlik: Tuzaklari sezmek icin tilki (kurnaz), kurtlari korkutmak icin aslan (guclu) olunmalidir.
+- Realizm: Olaylar ahlaki ideallere gore degil, insan dogasinin gerceklerine gore yonetilmelidir.
 
-Atatürk'ün ilke ve inkılaplarını iyi anlayabilmemiz için 19. yüzyılın padişahlarını çok iyi anlamamız lazım. Böylece milletimizin yeniden devlet kurma mücadelesini verme evresini (yani milli mücadele dönemini) daha iyi anlarız.
+** Kitaplar / Books to get
+- [X] Profesör Doktor Orhan Doğan'ın Atatürk İlkeleri ve İnkılap Tarihi kitabı (350 lira)
+- [ ] Bozkurtlarin dirilisi ve Bozkurtlarin olumu - onemli kitaplar, oku
 
-Yapilan hatalarin ve ihmalkarliklarin imparatorlugun cokusunde en onemli faktordur.
-
-Tarih devlet mezaridir. Cokuslerin nedeni nerdeyse hep aynidir.
-
-Devleti yonetiyorsaniz hata yapmicaksiniz.
-
-Rövanşist duygu --> Intikam duygusu. Tarihi kin
-
-Hayatimiz boyunca Osmanli'yi silme projesini unutmicaz, unutturmamiz gerekiyor. Unutursak tekrar yasariz. Unutan toplumlar yok edilir. Onun benzerini yasamaya mahkumdur.
-
-Ilk inkilaplar, yenilesme hareketleri orduda yapilmistir Osmanli devletinde.
 
 * Tarihsel Süreç ve Kronoloji
 
-** Orta Çağ ve Erken Dönem
+** Erken Dönem: Turkler ve Cin Emperyalizm'i
+- Asya Hun devleti ve I. ve II. Gokturk Kaganligi
+*** Sonuc
+- Orhun yazitlari
 
-*** Avrupa Hun Devleti Dönemi
-Dedemiz atilla romayi yendi. Asya hun devletinden ayrildi Avrupa hun devleti kuruldu. Romaya diz cokturdu vergiye bagladi. Tanrinin kirbaci olarak degerlendiriyorlar. Avrupalilar bunu unutmaz
+** 5. Yüzyıl: Avrupa Hun Devleti Dönemi
+- Dedemiz atilla romayi yendi. Asya hun devletinden ayrildi Avrupa hun devleti kuruldu.
+- Romaya diz cokturdu vergiye bagladi. Tanrinin kirbaci olarak degerlendiriyorlar. Avrupalilar bunu unutmaz.
 
-*** 1071 Malazgirt Meydan Muharebesi
-Dedemiz Alparslan bizansi yendi. 1071'de Anadolu'yu fethetmesi. Hristiyan dunyasinda bu unutulmuyor.
+** 1071: Malazgirt Meydan Muharebesi
+- Dedemiz Alparslan bizansi yendi. 1071'de Anadolu'yu fethetmesi.
+- Hristiyan dunyasinda bu unutulmuyor.
+- 1071'den itibaren bizi sevmiyorlar, tehdit olarak goruyorlar.
 
-1071'den itibaren bizi sevmiyorlar, tehdit olarak goruyorlar.
+** 1176: Miryokefalon Muharebesi
+- Anadolu'dan cikartamicaklarini anliyorlar.
+- Minakefelonla kesin Turk yurdu olmustur.
+- Avrupa haritalarinda bile artik bu topraklar icin Turkiye tabirini ilk defa kullaniyorlar 1176'dan beri.
 
-*** 1176 Miryokefalon Muharebesi
-Anadolu'dan cikartamicaklarini anliyorlar. Minakefelonla kesin Turk yurdu olmustur. Avrupa haritalarinda bile artik bu topraklar icin Turkiye tabirini ilk defa kullaniyorlar 1176'dan beri.
+** 17. Yüzyıl Başları: Kâtip Çelebi Raporu
+- Katip celebi 17. yuzyilin baslarinda pozitif ilimlerin gerekliligi uzerine rapor veriyor.
 
-** Klasik ve Gerileme Dönemi
+** 1683: II. Viyana Kuşatması
+- 1683'te ilk defa geri cekilmek zorunda kaliyoruz, bir Avrupa ordusunu yenemiyoruz (Vienna'da).
+- Avrupa'da Turkler de yenilebilirmis imaji olusturuluyor. Algi herzaman olgunun onundedir tarihte.
 
-*** 17. Yüzyıl Başları
-Katip celebi 17. yuzyilin baslarinda pozitif ilimlerin gerekliligi uzerine rapor veriyor
-
-*** 1683 II. Viyana Kuşatması
-1683'te ilk defa geri cekilmek zorunda kaliyoruz, bir Avrupa ordusunu yenemiyoruz (Vienna'da). Avrupa'da Turkler de yenilebilirmis imaji olusturuluyor. Algi herzaman olgunun onundedir tarihte.
-
-** 18. ve 19. Yüzyıl: Denge Politikası ve Islahatlar
-
-*** 1798 Napolyon'un Mısır'ı İsgali ve Denge Politikası
-Osmanli ilk defa ingiliz ve ruslardan yardim istemistir nopolyon yuzunden
-
-Denge politikalari ile tarihimizde ilk defa Napolyon'un Misir'dan cikartilmasi icin Osmanli'nin Ingiltere, Rusya'ya yaklasmasiyla Napolyon'u Misir'dan cikartma politikasina donusmustur. Denge politikasi boyle basliyor.
+** 1798: Napolyon'un Mısır'ı İsgali ve Denge Politikası
+- Osmanli ilk defa ingiliz ve ruslardan yardim istemistir nopolyon yuzunden.
+- Denge politikalari ile tarihimizde ilk defa Napolyon'un Misir'dan cikartilmasi icin Osmanli'nin Ingiltere, Rusya'ya yaklasmasiyla Napolyon'u Misir'dan cikartma politikasina donusmustur. Denge politikasi boyle basliyor.
 - [ ] _(Onumuzdeki hafta, Osmanliya niye yardim ettiklerini konusucaz...)_
 
-*** 19. Yüzyıl Padişahları, Reformistler
-- III. Selim
-- II. Mahmud
-- Abdulmecid
-- Abdulaziz
-- II. Abdulhamid
+** 1814-1815: Viyana Kongresi ve Şark Meselesi
+- 1814-1815 Vienna kongresinde Osmanli topraklarinin paylasilcagi, konusulcagi, o bolumunde Osmanli devleti masaya yatiriliyor.
+- Rus cari Alexander I. Nikola sozculugunu yapiyor o bolumun. Ana karari o veriyor.
+- Karar: Bu bir proje. Osmanli devleti parcalanicak. Istanbul Turklerden alinacak. Turk milletinin Avrupa'daki ve Balkanlardaki hakimiyetine kesinlikle son verilecek. Nihayet, Turkler, Anadolu'dan da atilacak.
+- 1914-1915 tarihinden itibaren Tarihciler, Siyasetciler, Politikacilar arasinda "sark meselesi" kullanilan bir terim oldu (Osmanli'yi kaldirma meselesi) (Turk milletini tarihten silme projesi).
+- Sark meselesi, Turk milletini tarihten silmektir.
+- Emperyalizm'in ayni anda ekonomik sorunlari da var. Kulturel de var, en tehlikelisi budur.
+- Sark melesi hala devam ediyor, israil ve ABD ile.
 
-Abdulaziz asil problem cehalet diyor.
+** 1878: 93 Harbi Sonrası Süreç
 
-*** 1814-1815 Viyana Kongresi ve Şark Meselesi
-1814-1815 Vienna kongresinde Osmanli topraklarinin paylasilcagi, konusulcagi, o bolumunde Osmanli devleti masaya yatiriliyor. Rus cari Alexander I. Nikola sozculugunu yapiyor o bolumun. Ana karari o veriyor. Karar: Bu bir proje. Osmanli devleti parcalanicak. Istanbul Turklerden alinacak. Turk milletinin Avrupa'daki ve Balkanlardaki hakimiyetine kesinlikle son verilecek. Nihayet, Turkler, Anadolu'dan da atilacak.
+*** 3 Mart 1878: Ayastefanos Antlaşması
+- Osmanli ile Rusya arasinda imzalandi.
+- Sartlari Osmanli icin cok agirdi (Buyuk Bulgaristan, genis toprak kayiplari).
+- Rusya'nin asiri guclenmesini istemeyen Avrupali buyuk devletler (Ingiltere, Avusturya-Macaristan, Almanya) karsi cikti.
+- Fiilen uygulanmadi, kagit ustunde kaldi.
+- Ingiltere, eger kibirsi kisa sureligine bize verirsen seni kurtaririm diyor.
+  + Osmanli reddederse, Rusya'nin yaninda karsinda beni de bulursun diyor.
+  + Padisah (II. Abdulhamid) agliyarak imzaliyor.
 
-1914-1915 tarihinden itibaren Tarihciler, Siyasetciler, Politikacilar arasinda "sart meselesi" kullanilan bir terim oldu (Osmanli'yi kaldirma meselesi) (Turk milletini tarihten silme projesi).
+*** 13 Temmuz 1878: Berlin Antlaşması
+- Ayastefanos yerine toplanan Berlin Kongresi sonrasinda imzalandi ve asil uygulanan oldu.
+- Sirbistan, Karadag ve Romanya tam bagimsiz oldu.
+- Buyuk Bulgaristan uce bolundu (Bulgar Prenslegi, Dogu Rumeli, Makedonya).
+- Kars, Ardahan ve Batum Rusya'ya birakildi; Dogubayazit Osmanli'da kaldi.
+- Bosna-Hersek yonetimi Avusturya-Macaristan'a devredildi (hukuken Osmanli'ya bagli kalmak sartiyla).
+- Ermeni meselesi ilk kez uluslararasi bir metinde yer aldi (Islahat taahhudleri).
 
-** 20. Yüzyıl: Milli Mücadele ve Cumhuriyet Dönemi
+** 30 Ekim 1918: Mondros Ateşkes Antlaşması
+- 30 Ekim 1918'i de unutmicaz (Mondros ateskes anlasmasi). Yakin donem icin onemli unutmamamiz gereken bir olay.
 
-*** 30 Ekim 1918 Mondros Ateşkes Antlaşması
-30 Ekim 1918'i de unutmicaz (Mondros ateskes anlasmasi). Yakin donem icin onemli unutmamamiz gereken bir olay.
+** 1919-1923: Milli Mücadele Süreci
+- Milli mucadele sirasinda Ataturk'un isledigi politika: Ruslardan yardim almak.
 
-*** 1920 Misak-ı Millî ve Sevr
-Misak'i Milli'yi de unutmicaz. Milli mucadelenin slogani Misak'i Milli sinirlarini korumak.
-Eksiklerimiz var. Unutmicaz. Unutturmicaz.
-Yunanistan "megaloidea" diyor, buyuk bir imparatorluk kurmak istiyor.
-Bu yuzden bizim de Misak'i Milli'yi unutmamamiz gerekiyor.
+** 1920: Misak-ı Millî ve Sevr
+- Misak'i Milli'yi de unutmicaz. Milli mucadelenin slogani Misak'i Milli sinirlarini korumak.
+- Eksiklerimiz var. Unutmicaz. Unutturmicaz.
+- Yunanistan "megaloidea" diyor, buyuk bir imparatorluk kurmak istiyor. Bu yuzden bizim de Misak'i Milli'yi unutmamamiz gerekiyor.
+- Sevr'i de unutmicaz. Buyuk bir travma. Icimizdeki o Sevr'i kabul etmek isteyen zihniyeti de unutmicaz. Icimizde Emperyalizm'in sizintilari var.
 
-Sevr'i de unutmicaz. Buyuk bir travma. Icimizdeki o Sevr'i kabul etmek isteyen zihniyeti de unutmicaz.
-Icimizde Emperyalizm'in sizintilari var.
+** 4 Mart 1923: Tarihi Olayları
 
-*** 1923 Lozan Barış Antlaşması
-Lozani unutmadilar. Sevr'i reddedip Lozani getirdik cunku. Lozan bizim tapumuz gibidir.
-Turk tarihine yatam hakki tanimak istemeyen emperyalistlerin bu dusunceleri sonucsuz birakildi.
+*** İzmir İktisat Kongresi Kapanışı
+- 17 subat 1923 tarihinde baslayan kongre 4 mart 1923 gunu sona erdi.
+- misak-i iktisadi (ekonomi andi) kabul edildi.
+- yerli uretim, milli sanayi ve ekonomik bagimsizlik hedeflendi.
+- yabanci tekellerin kaldirilmasi ve asar vergisinin kaldirilmasi fikri one cikti.
 
-*** Cumhuriyet Dönemi ve İnkılaplar
-Bir gecede cahil birakildik diyenlere cevap: Cumhuriyet kuruldugunda 100 erkekden 5-6 tanesi okuma yazma biliyordu. 1000 kadindan 5'i.
-Harf inkilabindan sonra %37 oldu.
+*** Lozan Süreci ve Meclis Gelişmeleri
+- lozan gorusmelerinin ilk turu kesildikten sonra ismet pasa heyeti ankaraya dondu.
+- meclisteki sert tartismalarin ardindan hukumet guvenoyu aldi.
+- ikinci tur gorusmeler icin diplomatik strateji netlestirildi.
 
-* Kitaplar
-- Books to get
+** 24 Temmuz 1923: Lozan Barış Antlaşması
+- Lozani unutmadilar. Sevr'i reddedip Lozani getirdik cunku. Lozan bizim tapumuz gibidir.
+- Turk tarihine yatam hakki tanimak istemeyen emperyalistlerin bu dusunceleri sonucsuz birakildi.
 
-- [X] Profesör Doktor Orhan Doğan'ın Atatürk İlkeleri ve İnkılap Tarihi kitabı (350 lira)
+** Cumhuriyet Dönemi ve İnkılaplar
+- Bir gecede cahil birakildik diyenlere cevap: Cumhuriyet kuruldugunda 100 erkekden 5-6 tanesi okuma yazma biliyordu. 1000 kadindan 5'i.
+- Harf inkilabindan sonra %37 oldu.
